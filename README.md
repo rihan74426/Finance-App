@@ -1,2 +1,2 @@
-# Finance-App
- A Finance App Using React Native
+Install node modules first.
+Then expo start to start the devlopment server
